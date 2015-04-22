@@ -1,2 +1,17 @@
-baseurl: /royJang.github.io
-encoding: utf-8
+# Site settings
+title: roy's blog
+header-img: img/home-bg.jpg
+email: zzl11081@gmail.com
+description: "roy's blog"
+baseurl: "/"
+url: "http://royJang.github.io"
+twitter_username: roy
+github_username:  royJang
+facebook_username: roy
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
