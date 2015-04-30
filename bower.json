@@ -1,0 +1,16 @@
+{
+  "name": "royJang.github.io",
+  "version": "1.0.0",
+  "homepage": "https://github.com/royJang/royJang.github.io",
+  "authors": [
+    "roy <zzl11081@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
